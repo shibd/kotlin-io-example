@@ -7,3 +7,7 @@ Use Kotlin develop pulsar connector example
 ```sh
 ./pulsar-admin sinks localrun -a {Your project path}/kotlin-io-example/target/kotlin-io-example-0.0.1.nar --name test-io-kotlin --inputs test-io
 ```
+4. You will see on console:
+```log
+HELLO
+```
